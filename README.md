@@ -80,7 +80,7 @@ build process and ensuring consistency across projects. The key dependencies inc
 ### Installation Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/BotsheloRamela/Kotlin-Basic-Weather-App
+   git clone 
    cd BasicWeatherApp
    ```
 2. Open the project in Android Studio:
