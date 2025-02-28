@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BasicWeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personnalise ici si besoin (couleurs, etc.) -->
+    </style>
+</resources>
